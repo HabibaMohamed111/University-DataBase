@@ -106,18 +106,6 @@ Open your terminal or Python environment and run
 python main.py
 ```
 
-## 📂 Project Structure
-
-University-Database/
-├── DataBase2.sql              # SQL schema and initial data
-├── main.py                    # Main GUI interface
-├── login.py                   # Login screen
-├── student_dashboard.py       # Student view interface
-├── instructor_dashboard.py    # Instructor view interface
-└── README.md                  # Project documentation
-
-
-
 ## 👩‍💻 Author
 Habiba Mohamed Fathy
 🎓 Data Science & Database Systems Student
